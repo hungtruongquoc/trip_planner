@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "create.js",
+  "sourceRoot": "../coffescript/trip",
+  "sources": [
+    "create.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,CAAA,CAAE,SAAA;AACD,QAAA;IAAA,OAAA,GACC;MAAA,MAAA,EAAQ,WAAR;MACA,MAAA,EAAQ,GADR;;IAED,CAAA,CAAE,cAAF,CAAiB,CAAC,cAAlB,CAAiC,OAAjC;IACA,CAAA,CAAE,YAAF,CAAe,CAAC,cAAhB,CAA+B,OAA/B;WACA,CAAA,CAAE,OAAF,CAAU,CAAC,KAAX,CAAA,CAAkB,CAAC,KAAnB,CAAA;EANC,CAAF;AAAA"
+}
